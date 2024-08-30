@@ -32,7 +32,7 @@ Email: ak3647@srmist.edu.in
 
 regno: RA2411003011379
 
-Track: Open Inovation
+Track: Open Innovation
 
 Problem Statement: The research community faces challenges in collaboration, resource sharing, and maintaining academic integrity. There is a need for a platform that connects students, professors, and enthusiasts, enabling them to share, review, and authenticate research work efficiently while preventing plagiarism and fostering a supportive environment for innovation and knowledge exchange.
 
